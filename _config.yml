@@ -20,7 +20,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: 
-    github:https://github.com/BangYeoul?tab=repositories
+    github:BangYeoul?tab=repositories
     linkedIn: 
     rss: rss
     # dribbble: jekyll
