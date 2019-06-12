@@ -2,7 +2,7 @@
 layout: post
 title:  My Private Webapp Store
 date:   2019-06-12 21:03:36 +0530
-categories: Javascript / NodeJS / JAVA / JSP / GIT
+categories: Javascript  NodeJS  JAVA  JSP  GIT
 ---
 no description
 
